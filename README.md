@@ -1,4 +1,6 @@
-EURUSD_H4_market_structure_analysis.jpg
+## EURUSD 4H Analysis
+
+![EURUSD 4H Chart](EURUSD_H4_market_structure_analysis.jpg)
 
 ## EURUSD 4H Market Analysis
 
