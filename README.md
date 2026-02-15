@@ -1,3 +1,5 @@
+EURUSD_H4_market_structure_analysis.jpg
+
 ## EURUSD 4H Market Analysis
 
 EURUSD is currently trading near the 1.1755 resistance zone, which previously acted as a supply area where price faced rejection. The recent bullish candles indicate short-term buying momentum; however, the market is approaching a historically reactive level, suggesting potential consolidation or rejection before continuation.
